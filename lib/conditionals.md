@@ -5,8 +5,8 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+A conditional is the part of a program that controls the flow of the execution of the program.
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+'=' assigns value from an operand on the right side to an operand on the left.

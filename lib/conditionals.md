@@ -10,3 +10,4 @@ A conditional is the part of a program that controls the flow of the execution o
 # What is the difference between `=` and `==`?
 
 '=' assigns value from an operand on the right side to an operand on the left.
+'==' checks that the values on either side are equal.
